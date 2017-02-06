@@ -14,12 +14,14 @@ Remember to consider all different angles in each of these examples. What jobs r
 
 #### Requirements
 
-- Pick one of the following in your group, design the table relationships, and draw them:
+- Pick one or more of the following analyze what it primarily does & try to draw the tables & relationships:
 
-  - an app to run a grocery store
-  - an app to run an airline
-  - an app to run a school
-  - an app to run a team of developers
+  - Facebook
+  - 99.co
+  - Github
+  - Carousell
+  - AirBnB
+  - Medium
 
 #### Deliverable
 
