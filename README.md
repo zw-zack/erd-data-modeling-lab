@@ -23,8 +23,9 @@ Remember to consider all different angles in each of these examples. What jobs r
   
   Hint: If you're not sure how to make a given table or store a piece of data, write in, with dummy data, all the columns of a single record / row.
 
-#### Deliverable
+### Deliverables
 
+#### 1
 An ERD diagram, using crow's foot notation, of whatever app you choose.  For example:
 
 
@@ -34,9 +35,11 @@ An ERD diagram, using crow's foot notation, of whatever app you choose.  For exa
 
 > Note: this example has "Items" as placeholders for the attributes.
 
-#### Deliverable 2
+#### 2
 Write the `tables.sql` file for this app. Write a `seed.sql` for the first row or two in every table.
 
+#### 3
+Write the sql files to get every major relationship in the app. (Make sure you have enough dummy data to get at least one row)
 
 ## Additional Resources
 
