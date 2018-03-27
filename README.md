@@ -4,7 +4,7 @@
 
 To practice modeling databases, you'll be tasked with drawing ERDs for a handful of hypothetical applications. Think about what models you would need and what tables you'd create, including the associated attributes and how they would related to other tables.
 
-Break into groups of four and work together to draw out diagrams for one of the apps below. You'll be drawing on the wall, so snap photos of the drawings when you've finished for safe keeping.
+Break into pairs and work together to draw out diagrams for one of the apps below. You'll be drawing on the wall, so snap photos of the drawings when you've finished for safe keeping.
 
 Afterwards, we'll ask for volunteers (or pick some participants) to walk us through your thinking & explain your decisions.
 
